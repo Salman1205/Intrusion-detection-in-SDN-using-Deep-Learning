@@ -83,7 +83,6 @@ ipython_config.py
 # pyenv
 .python-version
 
-temp_auto_push.bat
 # pipenv
 Pipfile.lock
 
@@ -169,6 +168,3 @@ desktop.ini
 tmp/
 temp/
 *.tmp
-.gitignore
-temp_interactive_push.bat
-branch_structure.json
